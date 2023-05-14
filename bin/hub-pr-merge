@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: hub-pr-merge <PR-NUMBER>
+# Usage: hub-pr-merge 
 #
 # Cause a pull request to be merged into its respective base branch.
 #
